@@ -14,7 +14,7 @@
     />
     <style>
       .logo {
-        width: 15vh;
+        width: 16vh;
       }
       .language_icon {
         width: 2vh;
@@ -23,16 +23,27 @@
         background-image: url("images/cover.jpg");
         color: aliceblue;
       }
-      .center_box{
+      /* .center_box{
        margin-top: 10%;
-      }
+      } */
       .unlimited_heading{
         font-size: 2rem;
         font-weight: 700;
         /* font-size: 3rem;
     font-weight: 900; */
       }
-
+     /* to remove paddings and margins from navbar */
+    .col-12{
+      padding-left: 0;
+      padding-right: 0;
+    }
+    .navbar{
+      margin-left: 0 !important;
+      margin-right: 0!important;
+    }
+    .box-row{
+      height: 85vh;
+    }
       /* .language_btn {
         color: #fff;
         background-color: #1c1f23;
@@ -59,9 +70,9 @@
         <!-- first row -->
         <div class="row">
             <!-- first column -->
-            <div class="col">
+            <div class="col-12">
                 <!-- navbar -->
-                <nav class="navbar navbar-dark bg-dark mx-1">
+                <nav class="navbar navbar-dark bg-transparent mx-1">
                     <div class="container-xl">
                       <!-- logo -->
                       <img src="images/logo.png" class="navbar-brand logo" alt="" />
@@ -103,8 +114,27 @@
         </div>
         <!-- first row ends  -->
     </div>
-    <div class="container">
-        <div class="row justify-content-center center_box">
+  <!-- second row containing center box -->
+<div class="row justify-content-center align-items-center box-row">
+  <!-- box column col-8 -->
+  <div class="col-8 d-flex flex-column">
+    <h1 class="align-self-center unlimited_heading">Unlimited movies, TV shows and more</h1>
+    <p class="align-self-center">Watch anywhere. Cancel anytime.</p>
+    <p class="align-self-center">Ready to watch? Enter your email to create or restart your membership.</p>
+
+  </div>  
+  <!-- col 8 ends -->
+</div>
+<!-- row ends -->
+
+
+
+
+
+
+
+  <!-- ---------------------------------------------------------------- -->
+        <!-- <div class="row justify-content-center center_box">
             <div class="col-10">
                 <div class="container text-light center_box d-flex flex-column ">
                     <h1 class="align-self-center unlimited_heading">Unlimited movies, TV shows and more</h1>
@@ -123,8 +153,8 @@
                     </p>
                   </div>
             </div>
-            </div>
-        </div>
+            </div> -->
+       
     </div>
 
 
