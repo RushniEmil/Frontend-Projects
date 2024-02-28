@@ -13,6 +13,7 @@ This repository contains various web projects that emphasize frontend developmen
 ### 3. [food-delivery-responsive 🥘](https://github.com/RushniEmil/frontend-projects/tree/main/4-food-delivery-responsive)
   - Introducing Healthy Meal Delivery Website.It is made completely responsive for an optimal experience on any device. 
   - Technologies used: *HTML5, CSS3 (CSS Flexbox and Grid Layouts, Media Queries, Flexible Images, Responsive units.)*
+  - [Live Demo](#) <!-- Add the deployed link here -->
 ## Getting Started 🛠️
 1. Clone the repository: `git clone https://github.com/your-username/project1.git`
 2. Navigate to the project folder: `cd project1`
