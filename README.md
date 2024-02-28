@@ -1,7 +1,7 @@
 # Frontend Projects 🚀
 This repository contains various web projects that emphasize frontend development using HTML, CSS, JavaScript, and Bootstrap. Each project demonstrates different aspects of creating user-friendly and interactive websites, showcasing features like responsive design and enhanced user interfaces. Explore these projects to learn and get inspired for your own web development journey!
 ## Table of Contents
-### 1. [image-gallery 🏞️](https://github.com/RushniEmil/frontend-projects.git/tree/main/1-image-gallery)
+### 1. [image-gallery 🏞️](https://github.com/RushniEmil/frontend-projects/tree/main/1-image-gallery)
   - The Simple gallery is a basic webpage that leverages the CSS Grid layout to create a clean and organized structure. This project is designed for educational purposes to demonstrate the simplicity and effectiveness of CSS Grid for building responsive and visually appealing web layouts.
   - Technologies used: *HTML5, CSS3*
 ### 2. netflix-clone 🎬
