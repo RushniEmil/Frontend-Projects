@@ -4,13 +4,13 @@ This repository contains various web projects that emphasize frontend developmen
 ### 1. [image-gallery 🏞️](https://github.com/RushniEmil/frontend-projects/tree/main/1-image-gallery)
   - The Simple gallery is a basic webpage that leverages the CSS Grid layout to create a clean and organized structure. This project is designed for educational purposes to demonstrate the simplicity and effectiveness of CSS Grid for building responsive and visually appealing web layouts.
   - Technologies used: *HTML5, CSS3*
-### 2. netflix-clone 🎬
+### 2. [netflix-clone 🎬](https://github.com/RushniEmil/frontend-projects/tree/main/2-netflix-clone)
   - The Netflix Clone project is a web application designed to replicate the user interface of the popular streaming platform Netflix.
   - Technologies used: *HTML5, CSS3, Bootstrap 5*
-### 3. chair-shop 🪑
+### 3. [chair-shop 🪑](https://github.com/RushniEmil/frontend-projects/tree/main/3-chair-shop)
   - This Chair Selling Furniture Shop is with a clean and minimalistic design.
   - *Technologies used* : *HTML5, CSS3*
-### 3. food-delivery-responsive 🥘
+### 3. [food-delivery-responsive 🥘](https://github.com/RushniEmil/frontend-projects/tree/main/4-food-delivery-responsive)
   - Introducing Healthy Meal Delivery Website.It is made completely responsive for an optimal experience on any device. 
   - Technologies used: *HTML5, CSS3 (CSS Flexbox and Grid Layouts, Media Queries, Flexible Images, Responsive units.)*
 ## Getting Started 🛠️
